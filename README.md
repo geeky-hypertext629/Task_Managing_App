@@ -2,8 +2,9 @@
 This is a To-do List manager dynamic website developed using the MERN stack.<br>
 This is a website where you can list down and manage your daily routine.
 
-![image](https://github.com/geeky-hypertext629/Task-Manager/assets/107639960/c5f51df1-5cc2-48da-b43e-5a54b49482ba)
-![image](https://github.com/geeky-hypertext629/Task-Manager/assets/107639960/a9a1e260-3201-48c0-a50a-bc824e7780a7)
+![image](https://github.com/geeky-hypertext629/Task_Managing_App/assets/107639960/d11855c3-3f27-4b06-aaa7-8a9567a43778)
+
+![image](https://github.com/geeky-hypertext629/Task_Managing_App/assets/107639960/dcf078da-0d85-492d-9d37-08df4ae8dce5)
 
 
 ## Key Features
